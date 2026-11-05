@@ -1,7 +1,0 @@
-{
-	"usesPermissions": [
-		"android.permission.INTERNET",
-		"android.permission.CAMERA",
-		"android.permission.VIBRATE"
-	]
-}

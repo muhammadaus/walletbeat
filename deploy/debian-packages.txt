@@ -1,6 +1,0 @@
-bubblewrap
-curl
-jq
-rsync
-uidmap
-inkscape

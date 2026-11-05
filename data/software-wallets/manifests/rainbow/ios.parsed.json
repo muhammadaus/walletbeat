@@ -1,9 +1,0 @@
-{
-	"usageDescriptions": [
-		"NSBluetoothAlwaysUsageDescription",
-		"NSCameraUsageDescription",
-		"NSFaceIDUsageDescription",
-		"NSPhotoLibraryAddUsageDescription",
-		"NSPhotoLibraryUsageDescription"
-	]
-}
